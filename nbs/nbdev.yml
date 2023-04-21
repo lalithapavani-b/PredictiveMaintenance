@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "PredictiveMaintenance"
+  site-url: "https://lalithapavani-b.github.io/PredictiveMaintenance"
+  description: "A project for predictive maintenance of machines"
+  repo-branch: main
+  repo-url: "https://github.com/lalithapavani-b/PredictiveMaintenance"
